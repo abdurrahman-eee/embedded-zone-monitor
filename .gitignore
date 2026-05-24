@@ -1,4 +1,3 @@
 build/
-FreeRTOS-Kernel/
 *.o
 *.dSYM
